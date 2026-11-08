@@ -184,6 +184,15 @@ def note_labels_for(records: list[dict[str, str]], is_professional: bool) -> lis
     return labels
 
 
+def approval_record_has_no_textbook(record: dict[str, str]) -> bool:
+    """Only treat explicit no-textbook values as confirmed absence; blank is unknown."""
+    value = re.sub(r"\s+", "", record.get("textbook", ""))
+    return value == "없음" or any(
+        phrase in value
+        for phrase in ("교과서없음", "교과서가없음", "교과서가없는")
+    )
+
+
 def visual_name(value: str) -> str:
     if value.endswith(" "):
         return value.rstrip(" ") + "␠" * (len(value) - len(value.rstrip(" ")))
@@ -271,6 +280,10 @@ def review_row(
         if pending_hits:
             reason += " 다만 동일 과목명에 승인진행 기록도 있어 승인목록 최신 상태를 확인하세요."
             status = "확인 필요"
+
+    if any(approval_record_has_no_textbook(record) for record in approval_hits):
+        status = "확인 필요"
+        reason = "교과서가 없는 과목임"
 
     if not standard_hits and not group_hits and not approval_hits and not pending_hits and raw_name[:1].isspace():
         reason += " 과목명 앞쪽 공백은 자동 제거하지 않았습니다."
@@ -502,7 +515,7 @@ with st.expander("판정 방식과 유의사항"):
         """
         - **정상**: 과목명이 기준 목록과 일치하고, 요구되는 비고 표기가 M열에서 확인됨.
         - **오류**: 과목명은 기준 목록과 일치하지만, 요구되는 비고 표기가 누락되었거나 문구가 다름.
-        - **확인 필요**: 정확히 일치하는 기준 과목이 없거나, 승인완료가 아닌 승인진행 기록만 확인됨.
+        - **확인 필요**: 정확히 일치하는 기준 과목이 없거나 승인완료가 아닌 승인진행 기록만 확인됨. 승인 목록에서 교과서가 없다고 명시된 과목은 과목명·비고가 맞더라도 `교과서가 없는 과목임`으로 표시합니다.
         - 과목명 비교에서는 끝의 빈칸과 말미의 `*`, `**`를 무시합니다. 앞쪽 공백·중간 띄어쓰기·기호·숫자·로마자 차이는 자동 보정하지 않습니다.
         - 표 1의 교과군명도 유효한 기준 항목으로 확인합니다. `기술⋅가정/정보`의 `기술·가정`, `정보`, `한문` 교과군을 포함하며, 기술·가정 교과군 이름에서만 `⋅`, `∙`, `·`, `ㆍ` 차이를 허용합니다.
         - 여러 파일을 올리면 파일별 선택 시트와 헤더 행을 따로 적용하고, 통합 결과에 파일명·시트명·엑셀 행을 기록합니다.
