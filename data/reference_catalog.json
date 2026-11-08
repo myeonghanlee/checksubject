@@ -2016,31 +2016,7 @@
     "context": "외국어⋅국제계열"
   },
   {
-    "name": "독일어권 문화",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
     "name": "독일어 독해와 작문Ⅱ",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "심화 독일어",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "프랑스어권 문화",
     "table": "표 2",
     "classification": "특목고 선택 과목",
     "group": "제2외국어",
@@ -2080,31 +2056,7 @@
     "context": "외국어⋅국제계열"
   },
   {
-    "name": "스페인어권 문화",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
     "name": "프랑스어 독해와 작문Ⅱ",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "심화 프랑스어",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "중국 문화",
     "table": "표 2",
     "classification": "특목고 선택 과목",
     "group": "제2외국어",
@@ -2144,23 +2096,7 @@
     "context": "외국어⋅국제계열"
   },
   {
-    "name": "일본 문화",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
     "name": "스페인어 독해와 작문Ⅱ",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "심화 스페인어",
     "table": "표 2",
     "classification": "특목고 선택 과목",
     "group": "제2외국어",
@@ -2208,31 +2144,7 @@
     "context": "외국어⋅국제계열"
   },
   {
-    "name": "아랍 문화",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
     "name": "중국어 독해와 작문Ⅱ",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "심화 중국어",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "베트남 문화",
     "table": "표 2",
     "classification": "특목고 선택 과목",
     "group": "제2외국어",
@@ -2280,14 +2192,6 @@
     "context": "외국어⋅국제계열"
   },
   {
-    "name": "심화 일본어",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
     "name": "전공 기초 러시아어",
     "table": "표 2",
     "classification": "특목고 선택 과목",
@@ -2321,14 +2225,6 @@
   },
   {
     "name": "러시아어 독해와 작문Ⅱ",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "심화 러시아어",
     "table": "표 2",
     "classification": "특목고 선택 과목",
     "group": "제2외국어",
@@ -2376,14 +2272,6 @@
     "context": "외국어⋅국제계열"
   },
   {
-    "name": "심화 아랍어",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
     "name": "전공 기초 베트남어",
     "table": "표 2",
     "classification": "특목고 선택 과목",
@@ -2417,14 +2305,6 @@
   },
   {
     "name": "베트남어 독해와 작문Ⅱ",
-    "table": "표 2",
-    "classification": "특목고 선택 과목",
-    "group": "제2외국어",
-    "category": "특목고 선택 과목",
-    "context": "외국어⋅국제계열"
-  },
-  {
-    "name": "심화 베트남어",
     "table": "표 2",
     "classification": "특목고 선택 과목",
     "group": "제2외국어",
