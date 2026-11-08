@@ -800,6 +800,14 @@
     "context": ""
   },
   {
+    "name": "정보",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
     "name": "로봇과 공학세계",
     "table": "표 1",
     "classification": "보통교과",
