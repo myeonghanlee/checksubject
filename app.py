@@ -104,14 +104,44 @@ def load_standard_catalog() -> list[dict[str, str]]:
     return json.loads(STANDARD_PATH.read_text(encoding="utf-8"))
 
 
-def relation_indicates_professional(value: str) -> bool:
-    compact = re.sub(r"\s+", "", value)
-    return (
+PROFESSIONAL_RELATED_GROUPS = (
+    "농림·축산",
+    "문화·예술·디자인·방송",
+    "경영·금융",
+    "관광·레저",
+    "정보·통신",
+    "기계",
+    "화학공업",
+    "환경·안전·소방",
+)
+
+
+def normalize_related(value: str) -> str:
+    compact = re.sub(r"\s+", "", value or "")
+    for mark in ("∙", "⋅", "‧", "ㆍ"):
+        compact = compact.replace(mark, "·")
+    return compact
+
+
+def classify_related(value: str) -> str:
+    """Return practical, specialty, professional, or unknown for approval metadata."""
+    compact = normalize_related(value)
+    if "전공실무" in compact:
+        return "practical"
+    if (
         "전문교과" in compact
         or "전문공통" in compact
         or "전공일반" in compact
-        or "전공실무" in compact
-    )
+        or any(normalize_related(group) in compact for group in PROFESSIONAL_RELATED_GROUPS)
+    ):
+        return "professional"
+    if "계열" in compact or "체육" in compact or "예술" in compact:
+        return "specialty"
+    return "unknown"
+
+
+def relation_indicates_professional(value: str) -> bool:
+    return classify_related(value) in {"professional", "practical"}
 
 
 def group_match_key(value: Any) -> str:
@@ -121,7 +151,7 @@ def group_match_key(value: Any) -> str:
 
 
 @st.cache_data(show_spinner=False)
-def load_approval_catalog(professional_standard_names: tuple[str, ...]) -> tuple[dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]], dict[str, int]]:
+def load_approval_catalog(professional_standard_names: tuple[str, ...], approval_file_digest: str) -> tuple[dict[str, list[dict[str, str]]], dict[str, list[dict[str, str]]], dict[str, int]]:
     approved: dict[str, list[dict[str, str]]] = defaultdict(list)
     pending: dict[str, list[dict[str, str]]] = defaultdict(list)
     counts = {"approved_rows": 0, "pending_rows": 0, "excluded_rows": 0}
@@ -208,11 +238,14 @@ def note_labels_for(records: list[dict[str, str]], is_professional: bool) -> lis
         agency = record.get("agency", "")
         if not agency:
             continue
+        related_class = classify_related(record.get("related", ""))
         if agency == APPROVAL_ORG_SEOUL:
             label = "교육감 승인 과목"
         else:
             label = "타 시·도 교육감 승인 과목"
-        if is_professional:
+        if related_class == "specialty":
+            label += "(특목고)"
+        elif related_class in {"professional", "practical"} or is_professional:
             label += "(전문)"
         if label not in labels:
             labels.append(label)
@@ -318,11 +351,25 @@ def review_row(
             reason += " 다만 동일 과목명에 승인진행 기록도 있어 승인목록 최신 상태를 확인하세요."
             status = "확인 필요"
 
-    if key in NO_TEXTBOOK_GAZETTED_COURSES or any(
+    related_classes = [classify_related(record.get("related", "")) for record in approval_hits]
+    has_no_textbook = key in NO_TEXTBOOK_GAZETTED_COURSES or any(
         approval_record_has_no_textbook(record) for record in approval_hits
-    ):
+    )
+    if "practical" in related_classes:
+        status = "오류"
+        reason = "관련교과(교과군)이 전공실무로 지정된 승인 과목입니다."
+        if missing_tags:
+            reason += " M열 필수 표기도 확인이 필요합니다: " + ", ".join(missing_tags)
+        if has_no_textbook:
+            reason += " 교과서가 없는 과목임"
+    elif has_no_textbook:
         status = "확인 필요"
         reason = "교과서가 없는 과목임"
+    elif "unknown" in related_classes:
+        status = "확인 필요"
+        reason = "관련교과(교과군)이 특목고 또는 지정 전문교과 분류에 해당하지 않아 확인이 필요합니다."
+        if missing_tags:
+            reason += " M열 필수 표기도 누락되었거나 다릅니다: " + ", ".join(missing_tags)
 
     if not standard_hits and not group_hits and not approval_hits and not pending_hits and raw_name[:1].isspace():
         reason += " 과목명 앞쪽 공백은 자동 제거하지 않았습니다."
@@ -376,7 +423,10 @@ def render_status_badges() -> None:
 try:
     catalog = load_standard_catalog()
     standard_by_name, professional_names, group_by_name = make_indexes(catalog)
-    approval_by_name, pending_by_name, source_counts = load_approval_catalog(tuple(sorted(professional_names)))
+    approval_file_digest = hashlib.sha256(APPROVAL_PATH.read_bytes()).hexdigest()
+    approval_by_name, pending_by_name, source_counts = load_approval_catalog(
+        tuple(sorted(professional_names)), approval_file_digest
+    )
 except Exception as error:
     st.error(f"기준 자료를 불러오지 못했습니다: {error}")
     st.stop()
@@ -393,10 +443,10 @@ with st.sidebar:
     st.markdown("**그 밖의 시·도교육청** → 타 시·도 교육감 승인 과목")
     st.markdown("전문 과목이면 승인 분류에 **(전문)**을 덧붙입니다.")
     with st.expander("판정 표기 기준"):
-        st.markdown("- 표 2 일치: `특목고 선택 과목`\n- 표 3 일치: `전문 교과`\n- 서울 승인완료: `교육감 승인 과목`\n- 타 시·도 승인완료: `타 시·도 교육감 승인 과목`\n- 승인 과목이 전문에 해당하면 두 승인 표기 모두 `(전문)`을 적용\n- 표 1만 일치하는 과목에는 이 검토 항목의 추가 비고를 요구하지 않음")
+        st.markdown("- 표 2 일치: `특목고 선택 과목`\n- 표 3 일치: `전문 교과`\n- 관련교과에 `계열`, `체육`, `예술` 유형이 있으면 기관별 승인 표기에 `(특목고)` 적용\n- 관련교과가 전문교과·전공일반 또는 지정 전문 교과군이면 기관별 승인 표기에 `(전문)` 적용\n- 관련교과가 `전공실무`이면 오류, 위 두 분류에 해당하지 않으면 확인 필요\n- 표 1만 일치하는 과목에는 이 검토 항목의 추가 비고를 요구하지 않음")
     st.markdown("---")
     st.markdown(f"**승인완료 행** · {source_counts['approved_rows']:,}\n\n**승인진행 행** · {source_counts['pending_rows']:,} (확정 판정 제외)")
-    st.caption("기준 목록을 갱신할 때는 data 폴더의 원본을 교체하고 카탈로그 생성 스크립트를 실행하세요.")
+    st.caption("기준 과목표와 승인 과목 CSV는 각각 해당 원본을 교체해 갱신합니다. 승인 CSV는 파일 변경 시 새로 읽습니다.")
 
 render_status_badges()
 
@@ -553,8 +603,8 @@ with st.expander("판정 방식과 유의사항"):
     st.markdown(
         """
         - **정상**: 과목명이 기준 목록과 일치하고, 요구되는 비고 표기가 M열에서 확인됨.
-        - **오류**: 과목명은 기준 목록과 일치하지만, 요구되는 비고 표기가 누락되었거나 문구가 다름.
-        - **확인 필요**: 정확히 일치하는 기준 과목이 없거나 승인완료가 아닌 승인진행 기록만 확인됨. 승인 목록에서 교과서가 없다고 명시된 과목과 별도 지정된 교과서 없음 고시 과목은 과목명·비고가 맞더라도 `교과서가 없는 과목임`으로 표시합니다.
+        - **오류**: 과목명은 기준 목록과 일치하지만 요구되는 비고 표기가 누락되었거나 문구가 다름, 또는 승인 과목의 관련교과가 `전공실무`임. 전공실무와 교과서 없음이 겹치면 오류를 우선하고 두 사유를 함께 표시합니다.
+        - **확인 필요**: 정확히 일치하는 기준 과목이 없거나 승인완료가 아닌 승인진행 기록만 확인됨. 승인 관련교과가 특목고·지정 전문교과 분류 외이면 확인이 필요합니다. 교과서가 없다고 표시된 과목은 `교과서가 없는 과목임`으로 표시합니다.
         - 교과서 없음 고시 과목 목록은 코드의 `NO_TEXTBOOK_GAZETTED_COURSES`에 관리하며, 기준 근거에 `고시 과목 목록 · 교과서 없음`으로 표시합니다.
         - 과목명 비교에서는 끝의 빈칸과 말미의 `*`, `**`를 무시합니다. 앞쪽 공백·중간 띄어쓰기·기호·숫자·로마자 차이는 자동 보정하지 않습니다.
         - 표 1의 교과군명도 유효한 기준 항목으로 확인합니다. `기술⋅가정/정보`의 `기술·가정`, `정보`, `한문` 교과군을 포함하며, 기술·가정 교과군 이름에서만 `⋅`, `∙`, `·`, `ㆍ` 차이를 허용합니다.
