@@ -53,9 +53,9 @@ st.markdown(
 
 
 def match_key(value: Any) -> str:
-    """Remove only terminal footnote asterisks; do not normalize whitespace/punctuation."""
-    text = "" if value is None else str(value)
-    return re.sub(r"\*{1,2}$", "", text)
+    """Ignore trailing whitespace and terminal footnote asterisks only."""
+    text = "" if value is None else str(value).rstrip()
+    return re.sub(r"\*{1,2}$", "", text).rstrip()
 
 
 def cell_text(value: Any) -> str:
@@ -164,10 +164,10 @@ def visual_name(value: str) -> str:
 
 
 def close_candidates(key: str, known_names: list[str]) -> list[str]:
-    if key.strip() != key:
-        trimmed = key.strip()
+    if key.lstrip() != key:
+        trimmed = key.lstrip()
         if trimmed in known_names:
-            return [f"공백 제거 시 후보: {trimmed}"]
+            return [f"앞 공백 제거 시 후보: {trimmed}"]
     return difflib.get_close_matches(key, known_names, n=3, cutoff=0.78)
 
 
@@ -228,7 +228,7 @@ def review_row(
         else:
             reason = "표 1~3 및 승인완료 고등학교 과목 목록에서 정확히 일치하는 과목을 찾지 못했습니다."
         candidates = close_candidates(key, known_names)
-        if raw_name != key:
+        if re.search(r"\*{1,2}\s*$", raw_name):
             candidates.insert(0, "과목명 끝의 별표(*) 표시는 비교에서 제거했습니다.")
     elif missing_tags:
         status = "오류"
@@ -238,8 +238,8 @@ def review_row(
             reason += " 다만 동일 과목명에 승인진행 기록도 있어 승인목록 최신 상태를 확인하세요."
             status = "확인 필요"
 
-    if not standard_hits and not approval_hits and not pending_hits and (raw_name.startswith(" ") or raw_name.endswith(" ")):
-        reason += " 과목명 앞·뒤 공백은 자동 제거하지 않았습니다."
+    if not standard_hits and not approval_hits and not pending_hits and raw_name[:1].isspace():
+        reason += " 과목명 앞쪽 공백은 자동 제거하지 않았습니다."
 
     return {
         "엑셀 행": row_number,
@@ -299,7 +299,7 @@ all_known_names = sorted(set(standard_by_name) | set(approval_by_name))
 
 with st.sidebar:
     st.markdown("### 기준 자료")
-    st.caption("과목명은 말미의 *·**만 제거해 비교합니다. 띄어쓰기와 나머지 기호는 자동 보정하지 않습니다.")
+    st.caption("과목명 끝의 빈칸과 말미의 *·**는 무시합니다. 앞쪽 공백·중간 띄어쓰기·기호는 자동 보정하지 않습니다.")
     st.markdown("**교육과정 표** · 표 1 보통교과 / 표 2 특목고 선택 / 표 3 전문교과")
     st.markdown("**승인 과목 목록** · 고등학교 · 승인완료만 판정 대상으로 사용")
     st.markdown("**서울특별시교육청** → 교육감 승인 과목")
@@ -406,7 +406,7 @@ with st.expander("판정 방식과 유의사항"):
         - **정상**: 과목명이 기준 목록과 일치하고, 요구되는 비고 표기가 M열에서 확인됨.
         - **오류**: 과목명은 기준 목록과 일치하지만, 요구되는 비고 표기가 누락되었거나 문구가 다름.
         - **확인 필요**: 정확히 일치하는 기준 과목이 없거나, 승인완료가 아닌 승인진행 기록만 확인됨.
-        - 과목명 비교에서는 말미의 `*`, `**`만 제거합니다. 공백·기호·숫자·로마자 표기는 보정하지 않습니다.
+        - 과목명 비교에서는 끝의 빈칸과 말미의 `*`, `**`를 무시합니다. 앞쪽 공백·중간 띄어쓰기·기호·숫자·로마자 차이는 자동 보정하지 않습니다.
         - 기준 표 1의 보통교과만 해당하면 이 검토 규칙에서 M열 추가 표기를 요구하지 않습니다.
         - 승인 과목의 전문 여부는 승인 목록의 관련 교과 표기와 표 3의 전문교과 등재 정보를 근거로 판정하며, 근거가 표 안에 표시됩니다.
         - 업로드한 Excel은 앱의 검토 과정에서 읽기 전용으로 처리되며, 이 앱의 코드에서는 파일을 저장하거나 외부로 전송하지 않습니다.
