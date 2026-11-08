@@ -1,0 +1,6658 @@
+[
+  {
+    "name": "공통국어1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "공통국어2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "화법과 언어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "독서와 작문",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "문학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "주제 탐구 독서",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "문학과 영상",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "직무 의사소통",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "독서 토론과 글쓰기",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "매체 의사소통",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "언어생활 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "국어",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "공통수학1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "공통수학2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "기본수학1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "기본수학2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "대수",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "미적분Ⅰ",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "확률과 통계",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "기하",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "미적분Ⅱ",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "경제 수학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "인공지능 수학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "직무 수학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "수학과 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "실용 통계",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "수학과제 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "수학",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "공통영어1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "공통영어2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "기본영어1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "기본영어2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "영어Ⅰ",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "영어Ⅱ",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "영어 독해와 작문",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "영미 문학 읽기",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "영어 발표와 토론",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 영어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 영어 독해와 작문",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "직무 영어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "실생활 영어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "미디어 영어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "세계 문화와 영어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "영어",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "한국사1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "한국사2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "통합사회1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "통합사회2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "세계시민과 지리",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "세계사",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "사회와 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "현대사회와 윤리",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "한국지리 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "도시의 미래 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "여행지리",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "역사로 탐구하는 현대 세계",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "사회문제 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "금융과 경제생활",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "윤리문제 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "기후변화와 지속가능한 세계",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "동아시아 역사 기행",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "정치",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "법과 사회",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "경제",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "윤리와 사상",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "인문학과 윤리",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "국제 관계의 이해",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "사회(역사/도덕 포함)",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "통합과학1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "통합과학2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "과학탐구실험1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "과학탐구실험2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "물리학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "화학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "생명과학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "지구과학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "역학과 에너지",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "전자기와 양자",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "과학의 역사와 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "기후변화와 환경생태",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "융합과학 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "세포와 물질대사",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "생물의 유전",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "지구시스템과학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "행성우주과학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "물질과 에너지",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "화학 반응의 세계",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "과학",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "체육1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "체육",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "체육2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "체육",
+    "category": "공통 과목",
+    "context": ""
+  },
+  {
+    "name": "운동과 건강",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "체육",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "스포츠 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "체육",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "스포츠 과학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "체육",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "스포츠 생활1",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "체육",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "스포츠 생활2",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "체육",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "음악",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "미술",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "연극",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "음악 연주와 창작",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "음악 감상과 비평",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "미술 창작",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "미술 감상과 비평",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "음악과 미디어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "미술과 매체",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "예술",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "기술⋅가정",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "로봇과 공학세계",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "생활과학 탐구",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "인공지능 기초",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "데이터 과학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "창의 공학 설계",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "지식 재산 일반",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "생애 설계와 자립",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "아동발달과 부모",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "소프트웨어와 생활",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "기술⋅가정/정보",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "독일어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "프랑스어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "스페인어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "중국어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "일본어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "러시아어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "아랍어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "베트남어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "독일어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "프랑스어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "스페인어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "중국어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "일본어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "러시아어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "아랍어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "베트남어 회화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "독일어권 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "프랑스어권 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "스페인어권 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "중국 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "일본 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "러시아 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "아랍 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "베트남 문화",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 독일어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 프랑스어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 스페인어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 중국어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 일본어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 러시아어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 아랍어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "심화 베트남어",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "제2외국어/한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "한문 고전 읽기",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "한문",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "언어생활과 한자",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "한문",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "진로와 직업",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "생태와 환경",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "일반 선택",
+    "context": ""
+  },
+  {
+    "name": "인간과 철학",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "논리와 사고",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "인간과 심리",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "교육의 이해",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "삶과 종교",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "보건",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "진로 선택",
+    "context": ""
+  },
+  {
+    "name": "인간과 경제활동",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "논술",
+    "table": "표 1",
+    "classification": "보통교과",
+    "group": "교양",
+    "category": "융합 선택",
+    "context": ""
+  },
+  {
+    "name": "전문 수학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "수학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "이산 수학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "수학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "고급 기하",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "수학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "고급 대수",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "수학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "고급 미적분",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "수학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "고급 물리학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "고급 화학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "고급 생명과학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "고급 지구과학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "물리학 실험",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "화학 실험",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "과학과제 연구",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "생명과학 실험",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "지구과학 실험",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "과학",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "정보과학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "정보",
+    "category": "특목고 선택 과목",
+    "context": "과학 계열"
+  },
+  {
+    "name": "스포츠 개론",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "육상",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "체조",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "수상 스포츠",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "스포츠 교육",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "기초 체육 전공 실기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "심화 체육 전공 실기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "고급 체육 전공 실기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "스포츠 경기 체력",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "스포츠 생리의학",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "스포츠 경기 기술",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "스포츠 경기 분석",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "스포츠 행정 및 경영",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "체육",
+    "category": "특목고 선택 과목",
+    "context": "체육 계열"
+  },
+  {
+    "name": "음악 이론",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "음악사",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "시창⋅청음",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "음악 전공 실기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "음악과 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "합창⋅합주",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "음악 공연 실습",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "미술 이론",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "드로잉",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "미술사",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "미술 전공 실기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "미술 매체 탐구",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "조형 탐구",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "미술과 사회",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무용의 이해",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무용과 몸",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무용 기초 실기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무용 전공 실기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무용과 매체",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "안무",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무용 제작 실습",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무용 감상과 비평",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "문예 창작의 이해",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "문장론",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "문학 감상과 비평",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "시 창작",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "문학과 매체",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "소설 창작",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "극 창작",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "연극과 몸",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "연극과 말",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "연기",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "무대 미술과 기술",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "연극과 삶",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "연극 제작 실습",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "연극 감상과 비평",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "영화의 이해",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "촬영⋅조명",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "영화와 삶",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "편집⋅사운드",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "영화 제작 실습",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "영화 감상과 비평",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "사진의 이해",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "사진 촬영",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "사진 표현 기법",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "영상 제작의 이해",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "사진과 삶",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "사진 감상과 비평",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "예술",
+    "category": "특목고 선택 과목",
+    "context": "예술 계열"
+  },
+  {
+    "name": "심화 영어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 영어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 영어Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 영어Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 영어 독해Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 영어 독해Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 영어 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 영어 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "영어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "국제 정치",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "국제 경제",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "국제법",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "지역 이해",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "한국 사회의 이해",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "비교 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "세계 문제와 미래 사회",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "국제 관계와 국제기구",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "현대 세계의 변화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "사회 탐구 방법",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "사회과제 연구",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "사회(역사/도덕 포함)",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 독일어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "독일어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "독일어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "독일어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "독일어권 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "독일어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 독일어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "프랑스어권 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 프랑스어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "프랑스어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "프랑스어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "프랑스어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "스페인어권 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "프랑스어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 프랑스어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "중국 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 스페인어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "스페인어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "스페인어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "스페인어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "일본 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "스페인어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 스페인어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "러시아 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 중국어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "중국어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "중국어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "중국어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "아랍 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "중국어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 중국어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "베트남 문화",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 일본어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "일본어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "일본어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "일본어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "일본어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 일본어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 러시아어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "러시아어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "러시아어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "러시아어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "러시아어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 러시아어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 아랍어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "아랍어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "아랍어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "아랍어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "아랍어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 아랍어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "전공 기초 베트남어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "베트남어 회화Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "베트남어 회화Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "베트남어 독해와 작문Ⅰ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "베트남어 독해와 작문Ⅱ",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "심화 베트남어",
+    "table": "표 2",
+    "classification": "특목고 선택 과목",
+    "group": "제2외국어",
+    "category": "특목고 선택 과목",
+    "context": "외국어⋅국제계열"
+  },
+  {
+    "name": "성공적인 직업 생활",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전문 공통",
+    "context": ""
+  },
+  {
+    "name": "노동 인권과 산업 안전 보건",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전문 공통",
+    "context": ""
+  },
+  {
+    "name": "디지털과 직업 생활",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전문 공통",
+    "context": ""
+  },
+  {
+    "name": "상업 경제",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기업과 경영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "사무 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "회계 원리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "회계 정보 처리 시스템",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기업 자원 통합 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "세무 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "유통 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "무역 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "무역 영어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "금융 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "보험 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "마케팅과 광고",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "창업 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "비즈니스 커뮤니케이션",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전자 상거래 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "총무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "노무 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "사무 행정",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "회계 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "유통 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자재 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "공급망 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "물류 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "원산지 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "무역 금융 업무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 상거래 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "인사",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "비서",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "예산⋅자금",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "세무 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "구매 조달",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "공정 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "품질 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "수출입 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "창구 사무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "고객 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "매장 판매",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "경영⋅금융",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "인간 발달",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "보육 원리와 보육 교사",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "보육 과정",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "아동 생활 지도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "아동 복지",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "보육 실습",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "영유아 교수 방법",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "생활 서비스 산업의 이해",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "복지 서비스의 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "사회 복지 시설의 이해",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "공중 보건",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "인체 구조와 기능",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "간호의 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기초 간호 임상 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "보건 간호",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "보건 의료 법규",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "치과 간호 임상 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "영유아 건강⋅안전⋅영양 지도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "사회 복지 시설 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "요양 지원",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "영유아 놀이 지도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "대인 복지 서비스",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "보건⋅복지",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "문화 콘텐츠 산업 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "미디어 콘텐츠 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "영상 제작 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "애니메이션 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "음악 콘텐츠 제작 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "디자인 제도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "디자인 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "조형",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "색채 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "컴퓨터 그래픽",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "공예 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "공예 재료와 도구",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "방송 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "영화 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "광고 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "게임 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "애니메이션 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "캐릭터 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "VR⋅AR 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "제품 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "실내 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "편집 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "목공예",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "방송 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "음악 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "게임 기획",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "게임 프로그래밍",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "만화 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "스마트 문화 앱 콘텐츠 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "시각 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "디지털 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "색채 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "도자기 공예",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "금속 공예",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "방송 제작 시스템 운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "문화⋅예술⋅ 디자인⋅방송",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "미용의 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "미용",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "미용 안전⋅보건",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "미용",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "헤어 미용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "미용",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "메이크업",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "미용",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "피부 미용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "미용",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "네일 미용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "미용",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "관광 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관광 서비스",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관광 영어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관광 일본어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관광 중국어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관광 문화와 자원",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관광 콘텐츠 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전시⋅컨벤션⋅이벤트 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "레저 서비스 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "호텔 식음료 서비스 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "국내 여행 서비스 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전시⋅컨벤션⋅이벤트 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "호텔 객실 서비스 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "국외 여행 서비스 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "카지노 서비스 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "관광⋅레저",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "식품과 영양",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기초 조리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "디저트 조리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "식음료 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "식품 과학",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "식품 위생",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "식품 가공 기술",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "식품 분석",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "한식 조리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "중식 조리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "바리스타",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "식공간 연출",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "축산 식품 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "건강 기능 식품 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "음료⋅주류 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "떡 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "제빵",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "양식 조리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "일식 조리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "바텐더",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "수산 식품 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "유제품 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "김치⋅반찬 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "식품 품질 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "제과",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "식품⋅조리",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "공업 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기초 제도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "건축 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "건축 기초 실습",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "건축 도면 해석과 제도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "토목 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "토목 도면 해석과 제도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "건설 재료",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "역학 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "토질⋅수리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "측량 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "드론 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "스마트 시티 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "건물 정보 관리 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "철근 콘크리트 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "건축 마감 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "건축 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "토목 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "측량",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "공간 정보 융합 서비스",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "국토 도시 계획",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "주거 서비스",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "건축 목공 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "건축 도장 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "토목 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "지적",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "공간 정보 구축",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "소형 무인기 운용⋅조종",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "교통 계획⋅설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "건축⋅토목",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "기계 제도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기계 기초 공작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전자 기계 이론",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기계 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "자동차 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기계 기초 역학",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "냉동 공조 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "유체 기계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "산업 설비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "자동차 기관",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "자동차 섀시",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "자동차 전기⋅전자 제어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선박 이론",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선박 구조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선박 건조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선체 도면 독도와 제도",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "항공기 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "항공기 실무 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기계요소 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선반 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "연삭 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "측정",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "특수 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "기계 소프트웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "건설 광산 기계 설치⋅정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "승강기 설치⋅정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자전거 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "사출 금형 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "사출 금형 조립",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "프레스 금형 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "프레스 금형 조립",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "냉동 공조 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "보일러 설치⋅정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "피복 아크 용접",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "가스 텅스텐 아크 용접",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "보일러 장치 설치",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동차 전기⋅전자 장치 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동차 섀시 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동차 도장",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동차 튜닝",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전장 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 기체 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 기체 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 왕복 엔진 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 전기⋅전자 장비 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 정비 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "기계 제어 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "밀링 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "컴퓨터 활용 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "성형 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "기계 수동 조립",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "운반 하역 기계 설치⋅정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "공작 기계 설치⋅정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "오토바이 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "사출 금형 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "사출 금형 품질 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "프레스 금형 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "프레스 금형 품질 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "배관 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "냉동 공조 유지 보수 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "판금⋅제관",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "이산화탄소⋅가스 메탈 아크 용접",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "로봇 용접",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "냉동 공조 장치 설치",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동차 엔진 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동차 차체 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동차 정비 검사",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선체 조립",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선체 생산 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 전기⋅전자 장비 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 가스 터빈 엔진 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "항공기 계통 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "소형 무인기 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "기계",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "재료 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "재료 시험",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "세라믹 재료",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "세라믹 원리⋅공정",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "제선",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "압연",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "금속 재료 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "도금",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "도자기",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "용융 세라믹 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "제강",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "주조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "금속 열처리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "금속 재료 신뢰성 시험",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "탄소 재료",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "재료",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "공업 화학",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "제조 화학",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "스마트 공정 제어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "화공 플랜트 기계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "화공 플랜트 전기",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "바이오 기초 화학",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "에너지 공업 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "에너지 화공 소재 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "화학 분석",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "화학 공정 유지 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "고분자 제품 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "바이오 화학 제품 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "에너지 설비 유틸리티",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "화학 물질 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "기능성 정밀 화학 제품 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "바이오 의약품 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "화장품 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "신재생 에너지 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "화학 공업",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "섬유 재료",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "섬유 공정",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "염색⋅가공 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "패션 소재",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "패션 디자인의 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "의복 구성의 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "편물",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "패션 마케팅",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "텍스타일 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "제포",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "패션 디자인의 실제",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "서양 의복 구성과 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "한국 의복 구성과 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "패션 상품 유통 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "방적⋅방사",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "염색⋅가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "패턴 메이킹",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "니트 의류 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "패션 소품 디자인과 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "비주얼 머천다이징",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "섬유⋅의류",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 회로",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전기 기기",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전기 설비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "자동화 설비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전기⋅전자 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전자 회로",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전기⋅전자 측정",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "디지털 논리 회로",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전자 제어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "발전 설비 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 기기 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 기기 유지 보수",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "내선 공사",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동 제어 기기 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동 제어 시스템 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 철도 시설물 유지 보수",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 제품 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 제품 설치 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "가전 기기 하드웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "산업용 전자 기기 하드웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "산업용 전자 기기 소프트웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "정보 통신 기기 소프트웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 응용 기기 기구 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 부품 기구 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "반도체 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "반도체 재료",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "로봇 하드웨어 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "로봇 소프트웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "로봇 유지 보수",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "의료 기기 인허가",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "LED 기술 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "3D 프린터용 제품 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "송⋅변전 배전 설비 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 기기 제작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 설비 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "외선 공사",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "자동 제어 시스템 유지 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 철도 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "철도 신호 제어 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 부품 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "가전 기기 시스템 소프트웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "가전 기기⋅기구 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "산업용 전자 기기⋅기구 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "정보 통신 기기 하드웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 응용 기기 하드웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전자 응용 기기 소프트웨어 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "반도체 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "반도체 장비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "디스플레이 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "로봇 기구 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "로봇 지능 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "의료 기기 연구 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "의료 기기 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "3D 프린터 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "전기⋅전자",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "통신 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "통신 시스템",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "정보 통신",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "정보 처리와 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "컴퓨터 구조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "프로그래밍",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "자료 구조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "알고리즘 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "컴퓨터 시스템 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "컴퓨터 네트워크",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "인공지능 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "사물 인터넷과 센서 제어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "네트워크 구축",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "무선 통신 구축⋅운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "응용 프로그래밍 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "시스템 프로그래밍",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "네트워크 프로그래밍",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "빅 데이터 분석",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "정보 보호 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "사물 인터넷 서비스 기획",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "유선 통신 구축⋅운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "초고속망 서비스 관리 운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "응용 프로그래밍 화면 구현",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "데이터베이스 프로그래밍",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "시스템 관리 및 지원",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "인공지능 모델링",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "컴퓨터 보안",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "정보⋅통신",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "인간과 환경",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "환경 화학 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "환경 기술",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "환경과 생태",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "산업 안전 보건 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "소방 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "소방 법규",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "소방 건축",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "소방 기계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "소방 전기",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "대기 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "폐기물 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "토양⋅지하수 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "환경 생태 복원 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전기 안전 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "화공 안전 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "소방 시설 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "소방 안전 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "수질 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "소음 진동 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "환경 유해 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "기계 안전 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "건설 안전 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "가스 안전 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "소방 시설 공사",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "환경⋅안전⋅소방",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "농업 이해",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 기초 기술",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 경영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "재배",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농산물 유통",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농산물 거래",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관광 농업",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "친환경 농업",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "생명 공학 기술",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 정보 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 창업 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "원예",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "생산 자재",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "조경 식물 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "화훼 장식 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "산림 휴양",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "산림 자원",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "임산 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "조림",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "조경",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "동물 자원",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "반려동물 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "곤충 산업 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 기계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 기계 공작",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 기계 운전 작업",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업용 전기⋅전자",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 토목 제도⋅설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 토목 시공⋅측량",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "농업 생산 환경 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수도작 재배",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "육종",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "농촌 체험 상품 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "스마트 팜 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "과수 재배",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "화훼 장식",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "임업 종묘",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "산림 보호",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "목재 가공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "조경 설계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "조경 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "수의 보조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "젖소 사육",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "가금 사육",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "말 사육",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "농업용 기계 설치⋅정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "전특작 재배",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "종자 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "농촌 체험 시설 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "채소 재배",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "화훼 재배",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "버섯 재배",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "산림 조성",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "임산물 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "펄프⋅종이 제조",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "조경 시공",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "종축",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "애완동물 미용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "돼지 사육",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "한우 사육",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "곤충 사육",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "농업 생산 환경 조성",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "농림⋅축산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "해양의 이해",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수산⋅해운 산업 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "해양 생산 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "해양 오염⋅방제",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "전자 통신 운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "어선 전문",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수산 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수산 생물",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수산 양식 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수산 경영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수산물 유통",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "양식 생물 질병",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "관상 생물 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "수산 해양 창업",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "활어 취급 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "해양 레저 관광",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "요트 조종",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "잠수 기술",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "항해 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "해사 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "해사 법규",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선박 운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선화 운송",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "항만 물류 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "해사 영어",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "항해사 직무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "열기관",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선박 보조 기계",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "선박 전기⋅전자",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기관 실무 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "기관 직무 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "근해 어업",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "해면 양식",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "내수면 양식",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "수상 레저 기구 조종",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "산업 잠수",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "어촌 체험 시설 운영",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선박 갑판 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선박 안전 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "기관사 직무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선박 보조 기계 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "원양 어업",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "수산 종묘 생산",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "수산 질병 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "일반 잠수",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "어촌 체험 상품 개발",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선박 통신",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선박 운항 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선박 기기 운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "선박 기관 정비",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "수산⋅해운",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "스마트 공장 일반",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "스마트 공장 운용",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "스마트 공장 설계와 구축",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "발명⋅특허 기초",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "발명과 기업가 정신",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "발명과 디자인",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "발명과 메이커",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 일반",
+    "context": ""
+  },
+  {
+    "name": "스마트 설비 실무",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "특허 출원의 실제",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "특허 정보 조사⋅분석",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 실무",
+    "context": ""
+  },
+  {
+    "name": "지식 재산 관리",
+    "table": "표 3",
+    "classification": "전문 교과",
+    "group": "융복합⋅ 지식 재산",
+    "category": "전공 실무",
+    "context": ""
+  }
+]
