@@ -19,6 +19,41 @@ DATA_DIR = ROOT / "data"
 STANDARD_PATH = DATA_DIR / "reference_catalog.json"
 APPROVAL_PATH = DATA_DIR / "20261108교육감승인과목목록_고등학교.csv"
 APPROVAL_ORG_SEOUL = "서울특별시교육청"
+NO_TEXTBOOK_GAZETTED_COURSES = {
+    # 수학 · 융합 선택
+    "수학과제 탐구",
+    # 과학계열 · 과학 · 진로 선택
+    "과학과제 연구",
+    # 체육계열 · 진로 선택
+    "기초 체육 전공 실기",
+    "심화 체육 전공 실기",
+    "고급 체육 전공 실기",
+    "스포츠 경기 기술",
+    # 예술계열 · 예술
+    "음악 전공 실기",
+    "합창⋅합주",
+    "음악 공연 실습",
+    "드로잉",
+    "미술 전공 실기",
+    "조형 탐구",
+    "무용 기초 실기",
+    "무용 전공 실기",
+    "안무",
+    "무용 제작 실습",
+    "문장론",
+    "시 창작",
+    "소설 창작",
+    "극 창작",
+    "무대 미술과 기술",
+    "연극 제작 실습",
+    "촬영⋅조명",
+    "편집⋅사운드",
+    "영화 제작 실습",
+    "사진 촬영",
+    "사진 표현 기법",
+    "영상 제작의 이해",
+    "사진 감상과 비평",
+}
 
 st.set_page_config(
     page_title="고등학교 학점 배당표 검증",
@@ -251,6 +286,8 @@ def review_row(
         record_label = f"승인목록 · {agency_label} · {related_label} · 승인완료"
         if record_label not in evidence:
             evidence.append(record_label)
+    if key in NO_TEXTBOOK_GAZETTED_COURSES:
+        evidence.append("고시 과목 목록 · 교과서 없음")
 
     expected_text = ", ".join(expected_labels) if expected_labels else "(추가 표기 없음)"
     actual_tags = [label for label in expected_labels if label in raw_note]
@@ -281,7 +318,9 @@ def review_row(
             reason += " 다만 동일 과목명에 승인진행 기록도 있어 승인목록 최신 상태를 확인하세요."
             status = "확인 필요"
 
-    if any(approval_record_has_no_textbook(record) for record in approval_hits):
+    if key in NO_TEXTBOOK_GAZETTED_COURSES or any(
+        approval_record_has_no_textbook(record) for record in approval_hits
+    ):
         status = "확인 필요"
         reason = "교과서가 없는 과목임"
 
@@ -515,7 +554,8 @@ with st.expander("판정 방식과 유의사항"):
         """
         - **정상**: 과목명이 기준 목록과 일치하고, 요구되는 비고 표기가 M열에서 확인됨.
         - **오류**: 과목명은 기준 목록과 일치하지만, 요구되는 비고 표기가 누락되었거나 문구가 다름.
-        - **확인 필요**: 정확히 일치하는 기준 과목이 없거나 승인완료가 아닌 승인진행 기록만 확인됨. 승인 목록에서 교과서가 없다고 명시된 과목은 과목명·비고가 맞더라도 `교과서가 없는 과목임`으로 표시합니다.
+        - **확인 필요**: 정확히 일치하는 기준 과목이 없거나 승인완료가 아닌 승인진행 기록만 확인됨. 승인 목록에서 교과서가 없다고 명시된 과목과 별도 지정된 교과서 없음 고시 과목은 과목명·비고가 맞더라도 `교과서가 없는 과목임`으로 표시합니다.
+        - 교과서 없음 고시 과목 목록은 코드의 `NO_TEXTBOOK_GAZETTED_COURSES`에 관리하며, 기준 근거에 `고시 과목 목록 · 교과서 없음`으로 표시합니다.
         - 과목명 비교에서는 끝의 빈칸과 말미의 `*`, `**`를 무시합니다. 앞쪽 공백·중간 띄어쓰기·기호·숫자·로마자 차이는 자동 보정하지 않습니다.
         - 표 1의 교과군명도 유효한 기준 항목으로 확인합니다. `기술⋅가정/정보`의 `기술·가정`, `정보`, `한문` 교과군을 포함하며, 기술·가정 교과군 이름에서만 `⋅`, `∙`, `·`, `ㆍ` 차이를 허용합니다.
         - 여러 파일을 올리면 파일별 선택 시트와 헤더 행을 따로 적용하고, 통합 결과에 파일명·시트명·엑셀 행을 기록합니다.
